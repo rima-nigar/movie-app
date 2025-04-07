@@ -1,5 +1,5 @@
 import  { useEffect, useState } from 'react'
-import Search from './component/search'
+import Search from './component/Search'
 import Spinner from './component/Spinner';
 import MovieCard from './component/MovieCard';
 import { useDebounce } from 'react-use';
